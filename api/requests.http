@@ -1,0 +1,13 @@
+GET http://localhost:5001/game/2
+
+###
+
+POST http://localhost:5001/game/4
+Accept: application/json
+Content-Type: application/json
+
+"f"
+
+###
+
+POST http://localhost:5001/game

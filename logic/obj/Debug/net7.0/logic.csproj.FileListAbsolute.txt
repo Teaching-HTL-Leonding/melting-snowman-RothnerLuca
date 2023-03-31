@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\bin\Debug\net7.0\logic.deps.json
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\bin\Debug\net7.0\logic.dll
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\bin\Debug\net7.0\logic.pdb
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\obj\Debug\net7.0\logic.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\obj\Debug\net7.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\obj\Debug\net7.0\logic.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\obj\Debug\net7.0\logic.AssemblyInfo.cs
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\obj\Debug\net7.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\obj\Debug\net7.0\logic.dll
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\obj\Debug\net7.0\refint\logic.dll
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\obj\Debug\net7.0\logic.pdb
+C:\Users\PC\Desktop\HTL\4. Klasse\POSE\19_melting_snowman\melting-snowman-RothnerLuca\logic\obj\Debug\net7.0\ref\logic.dll
